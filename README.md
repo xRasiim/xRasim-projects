@@ -23,4 +23,5 @@ Aquí iré subiendo algunos de mis trabajos:
 ---
 
 ## 📬 Contacto
-Si quieres colaborar o platicar de un proyecto, me puedes encontrar aquí en GitHub 😎.
+Si quieres colaborar o platicar de un proyecto, me puedes encontrar aquí en GitHub o ami DISCORD 
+rasim0383_97500😎.
